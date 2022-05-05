@@ -1,0 +1,47 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: "Helvetica Neue",sans-serif;
+
+}
+.top{
+    padding-top:100px;
+    background-color: #EDE6DB;
+    position:relative;
+}
+
+#programmer, .h2, .h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#1D5C63;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  color: #417D7A;
+  margin-top:0;
+}
+.skills-img {
+   height:250px;
+}
+
+.middle, .bottom {
+
+}
+.middle {
+
+}
+.bottom {
+  display:none;
+  background-color: yellow;
+  border: black 10px solid;
+}
+.cloud-bottom, .cloud-top{
+  position:absolute;
+}
+.cloud-top {
+  top:50px;
+  right:300px;
+}
+.cloud-bottom {
+  top:300px;
+  left:300px;
+}
